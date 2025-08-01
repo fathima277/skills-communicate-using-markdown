@@ -7,3 +7,7 @@
 ``` python
 print("hello")
 ```
+
+- [x] task 1
+- [ ] task 2
+- [X] task 3
